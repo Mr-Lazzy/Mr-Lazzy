@@ -13,12 +13,12 @@
 ## 🧿 Connect me on social Media:)
 [<img aling="left" src="https://images.unsplash.com/photo-1592181572975-1d0d8880d175?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=40" />](https://www.linkedin.com/in/shubham-singh-aka-mrlazy/) <br />
 
-[<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=60px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
+[<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
 
 ## 🧿 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on : Improving my CTF Skills
+- 🔭 I’m currently working on : Improving my CTF Skills 💪
 - 🌱 I’m currently learning : CEHv11
-- 👯 I’m looking to collaborate on : CTF Team work 
-- 💬 Ask me about : Linux Tools, happy to help ☺️
+- 👯 I’m looking to collaborate on : [CTF Team work](https://discord.gg/wUV5FZPc) 
+- 💬 Ask me about : Linux Tools, happy to help 😊
 - 📫 How to reach me : Discord: Mr.LAZY#2593 
