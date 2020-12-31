@@ -2,8 +2,8 @@
 ![Hacking_id_fun](https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)<bt/>
 
 ## 🧿 About Myself <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='70' >
-### > *I'm a cyber security Student and a CTF Player and a Continuous Learner in security field.*
-### > *Also in my free time I love to write blog/walkthrough on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find them          on my Pinned pages or my medium profile.*
+### >  *I'm a cyber security Student and a CTF Player and a Continuous Learner in security field.*
+### >  *Also in my free time I love to write blog/walkthrough on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find them           on my Pinned pages or my medium profile.*
 
 ## 🧿 Hacking Handle:)<br/>
 
