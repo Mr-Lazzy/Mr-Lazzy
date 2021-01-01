@@ -15,7 +15,7 @@
 
 [<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
 
-## Certificaion earned ![certificate](<img src="https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif" width="25px" >)
+## Certificaion earned ![certificate](https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif width="25px" >)
 
 ## 🧿 Here are some ideas to get you started:
 
