@@ -3,7 +3,7 @@
 
 ## 🧿 About Myself <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='70' >
 ### >  *I'm a cyber security Student and a CTF Player and a Continuous Learner in security field.*
-### >  *Also in my free time I love to write blog/walkthrough on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find them           on my Pinned pages or my medium profile.*
+### >  *Also in my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find             them on my Pinned pages or my medium profile.*
 
 ## 🧿 Hacking Handle:)<br/>
 
@@ -15,6 +15,8 @@
 
 [<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
 
+## Certificaion earned 1[certificate](https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif)
+
 ## 🧿 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Improving my CTF Skills 💪
@@ -22,3 +24,4 @@
 - 👯 I’m looking to collaborate on : [CTF Team work](https://discord.gg/wUV5FZPc) 
 - 💬 Ask me about : Linux Tools, happy to help 😊
 - 📫 How to reach me : Discord: Mr.LAZY#2593 
+- 📖 
