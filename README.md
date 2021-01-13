@@ -27,9 +27,9 @@
 
 ## 🧿 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on : Improving my CTF Skills 💪
+- 🔭 I’m currently working on : Improving my CTF && Bug Bounty Skills💪
 - 🌱 I’m currently learning : CEHv11
 - 👯 I’m looking to collaborate on : [CTF Team work](https://discord.gg/wUV5FZPc) 
 - 💬 Ask me about : Linux Tools, happy to help 😊
 - 📫 How to reach me : Discord: Mr.LAZY#2593 
-- 📖 
+- 📖 [Resume](https://drive.google.com/file/d/1ocb1IqsqkYcnqeqVWn0mjRXfUCIsfaEU/view?usp=sharing)
