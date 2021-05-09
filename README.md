@@ -40,4 +40,4 @@
 - 👯 I’m looking to collaborate on : [CTF Team work](https://discord.gg/wUV5FZPc) 
 - 💬 Ask me about : Linux Tools, happy to help 😊
 - 📫 How to reach me : Discord: Mr.LAZY#2593 
-- 📖 [Resume](https://drive.google.com/file/d/11b8fdv-fDlC-l5yAycGmp_j_b4wLOpwJ/view?usp=sharing)
+- 📖 [Resume](https://drive.google.com/file/d/1ZaNqWY34hr2S1e6q-P3mk8vrtIhHxj-U/view?usp=sharing)
