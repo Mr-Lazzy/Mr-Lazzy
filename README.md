@@ -24,6 +24,14 @@
 ### 👉 [Internshala- Ethical Hacking Training](https://drive.google.com/file/d/1c09hYtVEPOjHCKXYviWrHQU9U9e0dhya/view?usp=sharing)
 ### 👉 [Coursera- Web Application Testing with Burp Suite](https://drive.google.com/file/d/1le4oS5K1xJdjj3H8Ns24UOeyKXf9iF5r/view?usp=sharing)
 ### 👉 [Coursera- Introduction to Cybersecurity Tools](https://drive.google.com/file/d/1UM36J9SUZ_nOfFAOzbWZZYMHUVVKA3re/view?usp=sharing)
+### 👉 [Pluralsight- Ethical Hacking: SQL Injection](https://drive.google.com/file/d/1m3XKzAtySD_JAKzH6B78511vU_sE29U7/view?usp=sharing)
+### 👉 [Pluralsight- Initial Access with sqlmap](https://drive.google.com/file/d/1EWO2CxFUiJw0g7thPqD2pmk3mMrsl2gC/view?usp=sharing)
+### 👉 [Pluralsight- Ethical Hacking: Hacking Web Applications](https://drive.google.com/file/d/18btY441ykvhnOVDHb_TvIw6n94mLkm5p/view?usp=sharing)
+### 👉 [Pluralsight- Ethical Hacking: Evading IDS,Firewalls,and Honeypots](https://drive.google.com/file/d/127NtxMEveBf9cqq2x9CuMvH9KpVOxQGc/view?usp=sharing)
+### 👉 [Pluralsight- Ethical Hacking: Session Hijacking](https://drive.google.com/file/d/1o1qFN-OrxlvesotBG7LPgkB0Pd08AXZu/view?usp=sharing)
+### 👉 [Pluralsight- Ethical Hacking: Hacking Web Servers](https://drive.google.com/file/d/1AJ8kTWCd7vf6csSRZzhTHaBCyZPPWFq0/view?usp=sharing)
+### 👉 [Pluralsight- Network Layer Addressing and Subnetting](https://drive.google.com/file/d/18m3oAe9epEeVjXD8S3xWi7MyMGTef1Z9/view?usp=sharing)
+
 
 ## 🧿 Here are some ideas to get you started:
 
