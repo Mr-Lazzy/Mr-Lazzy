@@ -37,7 +37,7 @@
 ## 🧿 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Improving my CTF && Bug Bounty Skills💪
-- 🌱 I’m currently learning : CEHv11
+- 🌱 I’m currently learning : OSCP
 - 👯 I’m looking to collaborate on : [CTF Team work](https://discord.gg/wUV5FZPc) 
 - 💬 Ask me about : Linux Tools, happy to help 😊
 - 📫 How to reach me : Discord: Mr.LAZY#2593 
