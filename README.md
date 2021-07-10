@@ -1,5 +1,5 @@
 #  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> and Welcome to My Github page <br/>
-![Hacking_id_fun](https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif)<br/>
+![Hacking_id_is_fun](https://media.giphy.com/media/xT4uQBUK3lj2Q43Kj6/giphy-downsized.gif)<br/>
 
 ## 🧿 About Myself <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='70' >
 ### >  **I'm a Cyber Security Student and a CTF Player and a Continuous Learner in security field.**
