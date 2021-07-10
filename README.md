@@ -16,6 +16,7 @@
 [<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
 
 ## 🧿 My Achievement's <img src="https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif" width='40'>
+### 👉 [Certifide Ethical Hacker (CEHv11)](https://drive.google.com/file/d/17htQ9FF6BJsBQrrgK9uHyEQMO_j_ldnF/view?usp=sharing)
 ### 👉 [CyBok-v1.0 -CSFPC](https://drive.google.com/file/d/1Zv9DuAa_IiQXQjz-hqpYVJFjNOBxtzmo/view?usp=sharing)
 ### 👉 [CIA conference 2020](https://drive.google.com/file/d/18_f6v1MYv-kgoWGwps-qSxO85rddqCSb/view?usp=sharing)
 ### 👉 [Hacker Halted Conference 2020](https://drive.google.com/file/d/1Y209hLyzhaUTQsB7ESMU33LLwjsu5eAY/view?usp=sharing)
