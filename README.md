@@ -20,7 +20,7 @@
 
 <h3> Hacking Handles:)</h3>
 
-### [<img aling="left" src="https://assets.tryhackme.com/img/THMlogo.png" width=150px height=80px  />](https://tryhackme.com/p/Mr.Lazy)                [<img aling="left" src="https://www.teahub.io/photos/full/77-777773_hack-the-box.jpg" width=150px height=80px  />](https://app.hackthebox.eu/profile/255609) <br/>
+### [<img aling="left" src="https://assets.tryhackme.com/img/THMlogo.png" width=150px height=80px  />](https://tryhackme.com/p/Mr.Lazy)&nbsp;&nbsp;&nbsp;&nbsp;[<img aling="left" src="https://www.teahub.io/photos/full/77-777773_hack-the-box.jpg" width=150px height=80px  />](https://app.hackthebox.eu/profile/255609) <br/>
 
 <h3> Social Media Handles:)</h3>
 
