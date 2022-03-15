@@ -11,19 +11,19 @@
 
 ---
 
-<h3> About Myself </h3>
+<h2> About Myself </h2>
 
 - 🎓 I'm a Working Professional | CTF Player | Continuous Learner in security field.
 - 📚 In my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines.
 
 
 
-## 🧿 Hacking Handles:)<br/>
+<h2> Hacking Handles:)</h2>
 
 ### [<img aling="left" src="https://assets.tryhackme.com/img/THMlogo.png" width=200px height=100px  />](https://tryhackme.com/p/Mr.Lazy) <br/>
 ### [<img aling="left" src="https://www.teahub.io/photos/full/77-777773_hack-the-box.jpg" width=200px height=100px  />](https://app.hackthebox.eu/profile/255609) <br/>
 
-## 🧿 Social Media Handles:)
+<h2> Social Media Handles:) </h2>
 [<img aling="left" src="https://images.unsplash.com/photo-1592181572975-1d0d8880d175?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=40" />](https://www.linkedin.com/in/shubham-singh-aka-mrlazy/) <br />
 
 [<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
