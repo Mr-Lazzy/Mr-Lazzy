@@ -1,3 +1,12 @@
+<h3 align="center">
+	<a href="https://medium.com/@shubham-singh">Hi, I'm Shubham Kumar</a>
+  <img src="https://media.giphy.com/media/xT4uQBUK3lj2Q43Kj6/giphy-downsized.gif" width="28">
+</h3> 
+<br/>
+
+
+
+
 #  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> and Welcome to My Github page <br/>
 ![Hacking_id_is_fun](https://media.giphy.com/media/xT4uQBUK3lj2Q43Kj6/giphy-downsized.gif)<br/>
 
