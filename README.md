@@ -12,8 +12,10 @@
 ---
 
 <h3> About Myself </h3>
-	* I'm a Cyber Security Student and a CTF Player and a Continuous Learner in security field. <br>
-	* Also in my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find them on my Pinned pages or my medium profile.
+- 🔭 I’m currently working on : Improving my CTF && Bug Bounty Skills💪
+- 🌱 I’m currently learning : OSCP
+I'm a Cyber Security Student and a CTF Player and a Continuous Learner in security field. <br>
+Also in my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find them on my Pinned pages or my medium profile.
 
 
 ## 🧿 Hacking Handles:)<br/>
