@@ -13,7 +13,7 @@
 
 <h3> About Myself </h3>
 
-- 🎓 I'm a Working Professional | CTF Player | Continuous Learner in security field.
+- 🎓 I'm a **Working Professional** | **CTF Player** | **Continuous Learner in security field**
 - 📚 In my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines.
 
 
