@@ -11,13 +11,10 @@
 
 ---
 
-<h3> About Myself <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='70' > </h3>
-* I'm a Cyber Security Student and a CTF Player and a Continuous Learner in security field. <br>
-* Also in my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find them on my Pinned pages or my medium profile.
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
+<h3> About Myself </h3>
+	* I'm a Cyber Security Student and a CTF Player and a Continuous Learner in security field. <br>
+	* Also in my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find them on my Pinned pages or my medium profile.
+
 
 ## 🧿 Hacking Handles:)<br/>
 
