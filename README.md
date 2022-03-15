@@ -1,6 +1,6 @@
 <h3 align="center">
 	<a href="https://medium.com/@shubham-singh">Hi, I'm Shubham Kumar</a>
-  <img src="https://media.giphy.com/media/xT4uQBUK3lj2Q43Kj6/giphy-downsized.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <br/>
 
@@ -9,13 +9,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Cyber+Security+Enthusiast;CTF+Player%20TryHackMe%20|%20HackTheBox%20|%20Vulnhub%20;Always%20willing%20to%20learn%20new%20things&center=true&width=580&height=45"></a>
 </p>
 
+---
 
-#  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> and Welcome to My Github page <br/>
-![Hacking_id_is_fun](https://media.giphy.com/media/xT4uQBUK3lj2Q43Kj6/giphy-downsized.gif)<br/>
-
-## 🧿 About Myself <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='70' >
-### >  **I'm a Cyber Security Student and a CTF Player and a Continuous Learner in security field.**
-### >  **Also in my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find             them on my Pinned pages or my medium profile.**
+<h3> About Myself <img src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='70' > </h3>
+- I'm a Cyber Security Student and a CTF Player and a Continuous Learner in security field.
+- Also in my free time I love to write blog/walkthrough's on [medium.com](https://shubham-singh.medium.com/) based on Vulnhub/TryhackMe/HackTheBox machines. You can find them on my Pinned pages or my medium profile.
 
 ## 🧿 Hacking Handles:)<br/>
 
