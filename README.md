@@ -24,9 +24,9 @@
 ### [<img aling="left" src="https://www.teahub.io/photos/full/77-777773_hack-the-box.jpg" width=200px height=100px  />](https://app.hackthebox.eu/profile/255609) <br/>
 
 <h3> Social Media Handles:) </h3>
-[<img aling="left" src="https://images.unsplash.com/photo-1592181572975-1d0d8880d175?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=40" />](https://www.linkedin.com/in/shubham-singh-aka-mrlazy/) <br />
+### [<img aling="left" src="https://images.unsplash.com/photo-1592181572975-1d0d8880d175?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=200&q=40" />](https://www.linkedin.com/in/shubham-singh-aka-mrlazy/) <br />
 
-[<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
+### [<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=200px height=65px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
 
 <h2> My Achievement's <img src="https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif" width='40'> </h3>
 ### 👉 [Certifide Ethical Hacker (CEHv11)](https://drive.google.com/file/d/17htQ9FF6BJsBQrrgK9uHyEQMO_j_ldnF/view?usp=sharing)
