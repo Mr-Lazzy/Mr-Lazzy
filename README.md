@@ -1,3 +1,10 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/embed/JWy2zBSXQ55W5Jh00D" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/shubham-singh-aka-mrlazy/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+
 <h3 align="center">
 	<a href="https://medium.com/@shubham-singh">Hi, I'm Shubham Kumar</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
