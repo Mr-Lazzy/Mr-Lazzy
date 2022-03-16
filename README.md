@@ -4,10 +4,15 @@
     <a href="https://www.linkedin.com/in/shubham-singh-aka-mrlazy/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-
+    <a href="https://twitter.com/MrLazy62747454">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://medium.com/@shubham-singh">
+      <img src="https://img.shields.io/badge/-Medium-B7178C?logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+---
 <h3 align="center">
-	<a href="https://medium.com/@shubham-singh">Hi, I'm Shubham Kumar</a>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+	Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <br/>
 
