@@ -37,11 +37,13 @@
 
 <h3> Hacking Handles:)</h3>
 
-### [<img aling="left" src="https://assets.tryhackme.com/img/THMlogo.png" width=150px height=80px  />](https://tryhackme.com/p/Mr.Lazy)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img aling="left" src="https://www.teahub.io/photos/full/77-777773_hack-the-box.jpg" width=150px height=80px  />](https://app.hackthebox.eu/profile/255609) <br/>
+<a href="https://tryhackme.com/p/Mr.Lazy">
+      <img src="https://img.shields.io/badge/Tryhackme-B22222?style=for-the-badge&logo=tryhackme&logoColor=white&style=flat" alt="TryHackMe Badge"/>
+</a>
 
-<h3> Social Media Handles:)</h3>
-
-### [<img aling="left" src="https://images.unsplash.com/photo-1592181572975-1d0d8880d175?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=150&q=40" />](https://www.linkedin.com/in/shubham-singh-aka-mrlazy/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://freepngimg.com/thumb/twitter/8-2-twitter-png-hd.png" width=150px height=65px aling="left" />](https://twitter.com/MrLazy62747454) <br/>
+<a href="https://app.hackthebox.com/profile/255609">
+      <img src="https://img.shields.io/badge/Hackthebox-FF8C00?style=for-the-badge&logo=hackthebox&logoColor=white&style=flat" alt="HackTheBox Badge"/>
+</a>
 
 <h2> My Achievement's <img src="https://media.giphy.com/media/ZYWcXnDYHLSJYJ32Y8/giphy.gif" width='35'> </h3>
 
