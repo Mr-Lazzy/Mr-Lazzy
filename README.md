@@ -49,6 +49,7 @@
 
 <h2> 🏆  My Achievement's </h3>
 
+- [eJPT (eLearn Security)](https://drive.google.com/file/d/1Twz4w6cnRXCNAK2vWtg7JnkFXzAgl99O/view?usp=sharing)
 - [Certifide Ethical Hacker (CEHv11)](https://drive.google.com/file/d/17htQ9FF6BJsBQrrgK9uHyEQMO_j_ldnF/view?usp=sharing)
 - [CyBok-v1.0 -CSFPC](https://drive.google.com/file/d/1Zv9DuAa_IiQXQjz-hqpYVJFjNOBxtzmo/view?usp=sharing)
 - [CIA conference 2020](https://drive.google.com/file/d/18_f6v1MYv-kgoWGwps-qSxO85rddqCSb/view?usp=sharing)
@@ -71,8 +72,8 @@
 <h3> 🦸🏻‍♂️  Here are some ideas to get you started: </h3>
 
 - 🔭 I’m currently working on : Improving my CTF && Bug Bounty Skills💪
-- 🌱 I’m currently learning : OSCP
+- 🌱 I’m currently learning : CRTP
 - 👯 I’m looking to collaborate on : [CTF Team work](https://discord.gg/wUV5FZPc) 
 - 💬 Ask me about : Linux Tools, happy to help 😊
 - 📫 How to reach me : Discord: Mr.LAZY#2593 
-- 📖 [Resume](https://drive.google.com/file/d/1ZaNqWY34hr2S1e6q-P3mk8vrtIhHxj-U/view?usp=sharing)
+- 📖 [Resume](https://docs.google.com/document/d/1KctcSln66h3ZWaO0nb2eqFvbUVuRyZPx/edit?usp=sharing&ouid=117894533509069112561&rtpof=true&sd=true)
